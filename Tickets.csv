@@ -1,0 +1,21 @@
+Name,Notes,Notes copy,Assignee,Status
+Order Issue: TS101,Customer received red Cotton Saree instead of blue.,Customer received red Cotton Saree instead of blue.,Rahim Uddin,Todo
+Shipping Query: TS102,Customer asked when the Silk Saree will arrive in Dhaka.,Customer asked when the Silk Saree will arrive in Dhaka.,Fatema Begum,In progress
+Product Defect: TS103,Reported a small tear in the pallu of the Jamdani Saree.,Reported a small tear in the pallu of the Jamdani Saree.,Rahim Uddin,Todo
+Refund Request: TS104,Customer wants a refund for order #552 due to late delivery.,Customer wants a refund for order #552 due to late delivery.,Sumaya Akter,Done
+Stock Inquiry: TS105,User asked if the Half-Silk yellow saree is back in stock.,User asked if the Half-Silk yellow saree is back in stock.,Abdul Karim,Todo
+Customization: TS106,Request to add fall and pico to the ordered Tant Saree.,Request to add fall and pico to the ordered Tant Saree.,Fatema Begum,In progress
+Order Cancellation: TS107,Customer canceled the bulk order for the wedding.,Customer canceled the bulk order for the wedding.,Sumaya Akter,Done
+Payment Issue: TS108,Bkash payment failed for Order #560 but money was deducted.,Bkash payment failed for Order #560 but money was deducted.,Abdul Karim,Todo
+Address Change: TS109,Customer wants to change delivery address to Chittagong.,Customer wants to change delivery address to Chittagong.,Rahim Uddin,Done
+Fabric Quality: TS110,Customer complained the fabric is too thin.,Customer complained the fabric is too thin.,Sumaya Akter,Todo
+Wholesale Query: TS111,Shop owner from Sylhet wants price list for 50 pieces.,Shop owner from Sylhet wants price list for 50 pieces.,Abdul Karim,In progress
+Wrong Size: TS112,Blouse piece missing from the Katan Saree package.,Blouse piece missing from the Katan Saree package.,Fatema Begum,Todo
+Delivery Delay: TS113,Courier says they cannot find the customer's house.,Courier says they cannot find the customer's house.,Rahim Uddin,In progress
+Exchange Request: TS114,Wants to exchange the green saree for a red one.,Wants to exchange the green saree for a red one.,Sumaya Akter,Done
+Gift Wrap: TS115,Request to gift wrap the saree for a birthday present.,Request to gift wrap the saree for a birthday present.,Fatema Begum,Todo
+Discount Query: TS116,Customer asking for a discount code for the new collection.,Customer asking for a discount code for the new collection.,Abdul Karim,Done
+Order Update: TS117,Customer wants to add one more Baluchari Saree to the order.,Customer wants to add one more Baluchari Saree to the order.,Rahim Uddin,Todo
+Return Policy: TS118,User asking how many days they have to return a product.,User asking how many days they have to return a product.,Sumaya Akter,Done
+Color Fade: TS119,Customer complained color faded after first wash.,Customer complained color faded after first wash.,Abdul Karim,Todo
+General Inquiry: TS120,Is the shop open on Friday for direct visits?,Is the shop open on Friday for direct visits?,Fatema Begum,In progress

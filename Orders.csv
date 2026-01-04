@@ -1,0 +1,21 @@
+order_id,product_id,product_name,price,details,customization_options,color,Order Status,Customer Name,Order Date
+1,TS001,Tangail Cotton Saree,$25.00,Soft handloom cotton for daily wear.,Fall and Pico,Red/White,Delivered,Anika Tabassum,01/01/2026 10:00pm
+2,TS002,Half Silk Jamdani,$85.00,Gorgeous Jamdani for parties.,Blouse Piece Included,Royal Blue,Pending,Farhana Yeasmin,02/01/2026 11:30am
+3,TS003,Soft Silk Saree,$45.00,Lightweight silk with golden border.,Gift Wrapping,Green,Shipped,Salma Begum,03/01/2026 09:15am
+4,TS004,Tangail Tant Saree,$20.00,Traditional Tant saree.,None,Yellow,In Production,Moushumi Akter,04/01/2026 02:00pm
+5,TS005,Katan Banarasi,$120.00,Bridal Katan saree.,Golden Tassels,Maroon,Delivered,Nusrat Jahan,28/12/2025 04:45pm
+6,TS006,Linen Saree,$35.00,Modern linen print.,Fall and Pico,Pink,Cancelled,Rubina Khan,30/12/2025 08:00am
+7,TS007,Tangail Cotton Saree,$25.00,Simple cotton with stripe design.,None,Black/White,Delivered,Jannat Ara,25/12/2025 01:20pm
+8,TS008,Half Silk Jamdani,$90.00,Exclusive multicolor Jamdani.,Blouse Piece Included,White/Gold,Shipped,Riya Das,02/01/2026 06:10pm
+9,TS009,Moslin Saree,$150.00,Premium Moslin fabric.,Extra Care Packaging,Cream,Pending,Sabina Yasmin,04/01/2026 10:05am
+10,TS010,Tangail Tant Saree,$22.00,Comfortable Tant for home.,Fall and Pico,Orange,In Production,Tasnim Rahman,03/01/2026 03:30pm
+11,TS011,Tissue Saree,$55.00,Shiny tissue fabric for events.,Matching Petticoat,Silver,Delivered,Fatema Tu Zohra,20/12/2025 12:00pm
+12,TS012,Baluchari Saree,$70.00,Traditional design with storytelling motifs.,Gift Note,Purple,Shipped,Sharmin Sultana,01/01/2026 05:50pm
+13,TS013,Tangail Cotton Saree,$28.00,Block print design.,None,Teal,Pending,Ayesha Siddiqua,04/01/2026 09:00am
+14,TS014,Half Silk Saree,$40.00,Solid color with embroidery.,Blouse Piece Included,Magenta,Delivered,Sumaiya Shimu,29/12/2025 07:15pm
+15,TS015,Georgette Saree,$50.00,Flowy party wear.,Fall and Pico,Navy Blue,Cancelled,Tania Ahmed,31/12/2025 02:40pm
+16,TS016,Manipuri Saree,$60.00,Authentic Manipuri weave.,None,Dark Green,In Production,Pooja Rani,03/01/2026 11:00am
+17,TS017,Tangail Tant Saree,$18.00,Basic Tant saree.,Fall and Pico,Grey,Delivered,Khadija Khatun,22/12/2025 10:30am
+18,TS018,Katan Banarasi,$130.00,Heavy work for wedding guest.,Golden Tassels,Red/Gold,Shipped,Rumana Islam,02/01/2026 01:00pm
+19,TS019,Soft Silk Saree,$48.00,Printed silk design.,Gift Wrapping,Peach,Pending,Nadia Hossain,04/01/2026 08:25am
+20,TS020,Half Silk Jamdani,$88.00,Fine thread work Jamdani.,Blouse Piece Included,Black,In Production,Meher Afroz,03/01/2026 04:55pm
